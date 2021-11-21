@@ -11,8 +11,8 @@ What about running a virtual event? Setting up your Google Slide, a Slido for au
 These are pain points we face every day as execs on student clubs like the Women in Tech Society, where we plan virtual events for 40-70 students every month. For our virtual events, we consistently have to screen-share 3-4 different platforms for a successful event. We also have to get creative with how we engage with event attendees, which just adds more frustration to our event planning.
  
 We needed a solution that could:
-1.       Combine the features of our favourite event planning platforms to increase event planning efficiency
-2.       Creatively increase engagement with event attendees who have cameras off
+1. Combine the features of our favourite event planning platforms to increase event planning efficiency
+2. Creatively increase engagement with event attendees who have cameras off
  
 We call this "Fusion"
  
